@@ -1,7 +1,7 @@
 # Población de México (2010) — Distribución por entidad federativa
 
 <p align="center">
-  <img src="./assets/banner1.png" alt="Banner del proyecto: Población de México (2010) — Distribución por entidad federativa" width="100%">
+  <img src="./assets/Banner1.png" alt="Banner del proyecto: Población de México (2010) — Distribución por entidad federativa" width="100%">
 </p>
 
 ## Vista previa del mapa
@@ -53,4 +53,9 @@ Visualizar la **población de México en 2010** y su **distribución por entidad
 Debido a que GitHub no permite incrustar mapas dinámicos directamente en el archivo `README`, puedes acceder a la versión completa haciendo clic en el siguiente botón:
 
 <p align="center">
-  <a href="https://felt.com/embed/map/Practica1-bXY9CKuDMTKaIN9Cx028EalA?loc=23.945%2C-102.538%2C5.36z" target="_blank" rel="noopener
+  <a href="https://felt.com/embed/map/Practica1-bXY9CKuDMTKaIN9Cx028EalA?loc=23.945%2C-102.538%2C5.36z" target="_blank" rel="noopener">
+    <strong>Ver mapa en Felt</strong>
+  </a>
+</p>
+
+**Nota:** En GitHub no se incrustan mapas dinámicos directamente en el `README`. No es necesario descargar HTML; el mapa se visualiza desde Felt.
